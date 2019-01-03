@@ -1,7 +1,7 @@
 # vae_pytorch
 variational autoencoder implementation on pytorch using simple linear layer
 
-## Results
+## Results - Simple Linear Layer (MNIST)
 ### Random Sampling Results
 ![Sampled](/sampled.png)
 
