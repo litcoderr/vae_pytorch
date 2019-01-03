@@ -1,2 +1,10 @@
 # vae_pytorch
-variational autoencoder emplementation on pytorch
+variational autoencoder implementation on pytorch using simple linear layer
+
+## Results
+### Random Sampling Results
+![Sampled](/sampled.png)
+
+### Reconstruction Results
+##### Note that top is reconstructed image and down is original image
+![Reconstructed](/reconstructed.png)
